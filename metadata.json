@@ -1,0 +1,6 @@
+{
+  "name": "Mutual Fund Data Ingestion Workbench",
+  "description": "An interactive data engineering workspace for mutual fund data ingestion, validation, and live NAV fetching. Includes Python script runners, raw/processed dataset exploration, and Git commit workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
